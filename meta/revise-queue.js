@@ -44,5 +44,10 @@ const revice_queue = [
         topic: "sorting",
         path: "phase-1/striver-sde-sheet/sorting/mergeSort",
         revised_count: 0
-    }
+    },
+    {
+        type: 'dsa',
+        path: 'phase-1/striver-sde-sheet/arrays-3/Majority element (n by 2)',
+        revised_count: 0
+    },
 ]
