@@ -43,5 +43,7 @@ const revice_queue = [
     },
     {
         path: 'phase-1/striver-sde-sheet/arrays-3/reverse pairs (inversion pairs)'
+    },{
+        path: 'phase-1/striver-sde-sheet/arrays-4/3sum'
     }
 ]
