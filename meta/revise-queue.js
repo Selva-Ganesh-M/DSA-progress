@@ -49,5 +49,8 @@ const revice_queue = [
     },
     {
         path: 'phase-1/striver-sde-sheet/arrays-4/longest_consecutive_list'
+    },
+    {
+        path: "phase-1/striver-sde-sheet/ll1/reverse"
     }
 ]
