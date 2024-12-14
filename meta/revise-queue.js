@@ -11,12 +11,22 @@ const revice_queue = [
         ]
     },
     {
-        question: "Rotate matrix cw & ccw",
+        question: "Rotate matrix cw & ccw (variable m!=n)",
         keys: "array matrix",
         revisedOn: [
             {
                 date: "13-DEC-2024",
                 path: "meta/revised/2024/DEC/13/rotate matrix"
+            }
+        ]
+    },
+    {
+        question: "Rotate matrix cw & ccw (same variable m==n)",
+        keys: "array matrix",
+        revisedOn: [
+            {
+                date: "14-DEC-2024",
+                path: "meta/revised/2024/DEC/14/rotate matrix"
             }
         ]
     }
