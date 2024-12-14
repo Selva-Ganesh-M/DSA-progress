@@ -9,5 +9,15 @@ const revice_queue = [
                 path: "meta/revised/2024/DEC/13/x/x.py"
             }
         ]
+    },
+    {
+        question: "Rotate matrix cw & ccw",
+        keys: "array matrix",
+        revisedOn: [
+            {
+                date: "13-DEC-2024",
+                path: "meta/revised/2024/DEC/13/rotate matrix"
+            }
+        ]
     }
 ]
