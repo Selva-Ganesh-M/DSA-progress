@@ -3,11 +3,21 @@ const revice_queue = [
         question: "set 0 in matrices",
         link: "https://leetcode.com/problems/set-matrix-zeroes/submissions/1477980243/",
         keys: "array matrix",
+        noteToSelf: [
+            /**
+             * If using colZero, mark col as the last step,
+             * If rowZero, mark row as last step.
+             */
+        ],
         revisedOn: [
             {
                 date: "13-DEC-2024",
                 path: "meta/revised/2024/DEC/13/x/x.py"
-            }
+            },
+            {
+                date: "26-DEC-2024",
+                path: "meta/revised/2024/DEC/13/x/x.py"
+            },
         ]
     },
     {
